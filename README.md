@@ -11,40 +11,26 @@
 - Member 3: Fathima Fidha MA- GEC KOZHIKODE
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[hosted project link here](https://aleena2106.github.io/Pluto_Lockit/)
 
 ### Project Description
-[This website help users to manage their finances by locking money , setting spending limit and tracking available balance]
+This website help users to manage their finances by locking money , setting spending limit and tracking available balance
 
 ### The Problem statement
-[Reduce over spending and help to use in emergency situations through UPI apps]
+Reduce over spending and help to use in emergency situations through UPI apps
 
 ### The Solution
-[Money locking system]
+Money locking system
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML , Java script ,Css]
-- [VS Code]
-- [Libraries used]
-- [canva]
+- HTML , Java script ,Css
+- VS Code
+- Libraries used
+- Canva
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 
@@ -70,31 +56,7 @@ For Software:
 
 *Layout of app*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -103,15 +65,10 @@ For Hardware:
 
 
 
-*it shows how the money locking system works*
+*It shows how the money locking system works*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
 
 ---
 Made with ❤️ by Pluto
